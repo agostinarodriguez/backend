@@ -1,0 +1,1 @@
+[{"title":"cereza","description":"este es un decimo producto prueba","price":200,"thumbnail":"prueba","code":2020,"stock":2,"id":1},{"title":"Bicicleta de montaña","description":"Bicicleta diseñada para recorridos en montaña y terrenos irregulares.","price":80000,"thumbnail":"https://www.example.com/bicicleta.jpg","code":"GHI789","stock":2,"id":2}]
